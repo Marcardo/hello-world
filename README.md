@@ -1,2 +1,5 @@
 # hello-world
-#1 hello-world repository
+
+Hi friends!
+
+That is all.  Thank you.
